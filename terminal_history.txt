@@ -1,0 +1,970 @@
+   50  pip ~v
+   51  pip -V
+   52  pip freeze
+   53  clear
+   54  pip install fire
+   55  pip install questionary\n
+   56  conda activate dev
+   57  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+   58  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+   59  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+   60  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+   61  clear
+   62  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   63  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   64  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   65  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   66  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   67  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py"
+   68  clear
+   69  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   70  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   71  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   72  clear
+   73  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   74  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   75  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   76  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   77  clear
+   78  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   79  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   80  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   81  clear
+   82  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   83  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   84  clear
+   85  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   86  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   87  clear
+   88  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   89  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   90  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   91  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   92  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python
+   93  conda activate dev
+   94  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   95  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   96  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+   97  cl;ear
+   98  clear
+   99  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  100  clear
+  101  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  102  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  103  clear
+  104  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  105  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  106  conda activate dev
+  107  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/Utils"
+  108  clear
+  109  cd .
+  110  cd
+  111  cd..
+  112  cd ..
+  113  ls
+  114  clear
+  115  conda activate dev
+  116  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  117  clear
+  118  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  119  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  120  clear
+  121  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  122  clear
+  123  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  124  clear
+  125  conda activate dev
+  126  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/loan_analyzer.py"
+  127  pwd
+  128  clear
+  129  pwe
+  130  clear
+  131  pwd
+  132  cd
+  133  ls
+  134  cd library
+  135  pwd
+  136  cd
+  137  cd .
+  138  ls
+  139  cd public
+  140  ls
+  141  cd ..
+  142  ls
+  143  cd .
+  144  ls
+  145  cd..
+  146  ls
+  147  cd ..
+  148  ls
+  149  cd ..
+  150  ls
+  151  cd ..
+  152  ls
+  153  pwd
+  154  clear
+  155  python run import fire
+  156  clear
+  157  pip install fire
+  158  conda activate dev
+  159  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python Untitled-1
+  160  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/import_fire.py"
+  161  clear
+  162  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/import_fire.py"
+  163  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/cli.py"
+  164  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/cli.py"
+  165  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/cli.py"
+  166  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/cli.py"
+  167  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 1 Challenge/cli.py"
+  168  clear
+  169  python cli.py --pants=True
+  170  ls
+  171  cd Fintech
+  172  cd challenges
+  173  ls
+  174  cd Week\ 1\ Challenge
+  175  ls
+  176  cd cli.py
+  177  python cli.py --pants=True
+  178  clear
+  179  python cli.py --pants=True
+  180  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  181  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  182  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  183  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  184  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/dialog.py"
+  185  clear
+  186  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/dialog.py"
+  187  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/dialog.py"
+  188  pip install questionary
+  189  clear
+  190  git config --global user.name <your first and last name>\n
+  191  git config --global user.name Jake Wheeler
+  192  git config --global user.email jakewheelersemail@gmail.com
+  193  git config --list\n
+  194  git config --global user.name Jake Wheeler
+  195  git config --list
+  196  git config --global user.name Jake_Wheeler
+  197  cd
+  198  ls
+  199  cd fintech
+  200  ls
+  201  cd week 2
+  202  cd Week 2
+  203  cd Week\ 2
+  204  ls
+  205  git clone https://github.com/JakeWheelerGitHub/Module-2.git
+  206  git statu
+  207  git status
+  208  ls
+  209  ls module 2
+  210  ls Module-2
+  211  git status
+  212  git init
+  213  git clone https://github.com/JakeWheelerGitHub/Module-2.git
+  214  pwd
+  215  cd Module-2
+  216  pwd
+  217  ls
+  218  git status
+  219  git add README.md
+  220  git status
+  221  git touch new_file.txt
+  222  npm install touch-cli -g
+  223  touch new_file.txt
+  224  ls
+  225  git status
+  226  git add new_file.txt
+  227  git status
+  228  git commit -m"edited readme and added new_file.txt"
+  229  pit push
+  230  git push
+  231  git push
+  232  git push
+  233  git push
+  234  git push
+  235  git config --global credential.helper manager-core\n
+  236  conda activate dev
+  237  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  238  clear
+  239  pwd
+  240  conda activate dev
+  241  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  242  clear
+  243  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  244  conda activate dev
+  245  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  246  conda activate dev
+  247  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  248  conda activate dev
+  249  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  250  conda activate dev
+  251  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  252  clear
+  253  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  254  conda activate dev
+  255  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  256  cd
+  257  cd ..
+  258  psw
+  259  pwd
+  260  ls
+  261  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  262  conda activate dev
+  263  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  264  conda activate dev
+  265  clear
+  266  cd
+  267  conda activate dev
+  268  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/atm.py"
+  269  clear
+  270  clear
+  271  git clone https://github.com/JakeWheelerGitHub/ATM-Class-activity.git
+  272  git status
+  273  git clone https://github.com/JakeWheelerGitHub/ATM-Class-activity.git
+  274  git status
+  275  git statu
+  276  git status
+  277  git clone https://github.com/JakeWheelerGitHub/ATM-Class-activity.git
+  278  clear
+  279  cd
+  280  pwd
+  281  cd ls
+  282  ls
+  283  cd fintech
+  284  ls
+  285  cd Week\ 2
+  286  cd Class_2_Activities
+  287  cd 03_Stu_Create_Github_Repository
+  288  git clone https://github.com/JakeWheelerGitHub/ATM-Class-Activity.git
+  289  cd '/Users/jakewheeler/Fintech/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2'
+  290  clear
+  291  clear
+  292  conda activate dev
+  293  git status
+  294  git status
+  295  clear
+  296  pwd
+  297  cd '/Users/jakewheeler/Fintech/Week 2/Class_2_Activities/03_Stu_Create_Github_Repository'
+  298  pwed
+  299  pwd
+  300  ckear
+  301  clear
+  302  conda activate dev
+  303  conda list pandas
+  304  conda list jupyter lab
+  305  conda list jupyter lab
+  306  conda list jupyterlab
+  307  conda deactivate
+  308  conda remove --dev all
+  309  conda remove --name dev all
+  310  conda remove --name dev --all
+  311  conda update conda
+  312  conda update anaconda
+  313  conda create -n dev python=3.7 anaconda
+  314  conda inofo --n envs
+  315  conda info --n envs
+  316  conda info --envs
+  317  conda activate dev
+  318  conda list pandas
+  319  conda list jupyterlab
+  320  clear
+  321  python -m ipykernal instal --user --name dev---display-name "Python (dev)"
+  322  python -m ipykernel instal --user --name dev --display-name "Python (dev)"
+  323  python -m ipykerneal instal --user --name dev---display-name "Python (dev)"
+  324  python -m ipykernel instal --user --name dev---display-name "Python (dev)"
+  325  python -m ipykernel install --user --name dev---display-name "Python (dev)" 
+  326  clear
+  327  jupyter lab
+  328  conda activate dev
+  329  jupyter lab
+  330  jupyter lab
+  331  conda activate dev
+  332  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  333  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  334  clear
+  335  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  336  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  337  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  338  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/01_Import_Data/Module 1"
+  339  conda activate dev
+  340  jupyter lab
+  341  pip install pandas
+  342  clear
+  343  pip install pandas
+  344  jupyter lab
+  345  conda activate dev
+  346  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  347  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  348  clear
+  349  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  350  pip install questionary
+  351  pip install fire
+  352  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  353  clear
+  354  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  355  clear
+  356  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  357  clear
+  358  pip install fire
+  359  clear
+  360  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Starter_Code/Challenge-2/Challenge-2/loan_qualifier_app/app.py"
+  361  conda activate dev
+  362  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  363  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  364  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  365  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  366  CLEAR
+  367  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  368  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  369  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  370  clear
+  371  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  372  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  373  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 2/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  374  clear
+  375  git config --list\n
+  376  ar
+  377  clear
+  378  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  379  conda activate dev
+  380  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/loan_qualifier_app/app.py"
+  381  clear
+  382  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/loan_qualifier_app/app.py"
+  383  clear
+  384  git status
+  385  pwd
+  386  git status
+  387  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  388  git init
+  389  git status
+  390  git add
+  391  git add Challenge-2
+  392  git add loan_qualifier_app
+  393  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/loan_qualifier_app'
+  394  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/README.md'
+  395  git status
+  396  git commit "Adding initial files"
+  397  git push
+  398  clear
+  399  git commit -m "Adding initial files"
+  400  git push
+  401  git remote add https://github.com/JakeWheelerGitHub/Challenge-2.git
+  402  git push 
+  403  git push https://github.com/JakeWheelerGitHub/Challenge-2.git
+  404  clear
+  405  pwd
+  406  ls
+  407  cd challenge-2
+  408  ls
+  409  cd..
+  410  cd ..
+  411  ls
+  412  pwd
+  413  cd '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge'
+  414  ls
+  415  pwd
+  416  git clone https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  417  git status
+  418  git add README.md
+  419  git add loan_qualifier_app
+  420  git statuss
+  421  git status
+  422  git commit -m "Adding initial files"
+  423  git push
+  424  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  425  git status
+  426  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/loan_qualifier_app/app.py"
+  427  clear
+  428  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Challenge-2/loan_qualifier_app/app.py"
+  429  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  430  clear
+  431  git status
+  432  git add Ignore. Folder necesary for git function/
+  433  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Ignore. Folder necesary for git function'
+  434  git status
+  435  git rm --cached Ignore. Folder necesary for git function
+  436  git rm --cached '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/Ignore. Folder necesary for git function'
+  437  git status
+  438  clear
+  439  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  440  clear
+  441  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  442  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  443  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  444  clear
+  445  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  446  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  447  clear
+  448  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  449  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  450  werq
+  451  clear
+  452  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  453  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  454  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python Untitled-1
+  455  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  456  clear
+  457  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  458  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  459  clear
+  460  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  461  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  462  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Test output"
+  463  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  464  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  465  clear
+  466  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  467  clear
+  468  install csv
+  469  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  470  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  471  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  472  clear
+  473  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  474  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  475  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  476  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  477  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  478  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  479  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  480  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  481  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  482  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  483  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  484  git status
+  485  git commit -m "Added save_qualifying_loans function"
+  486  git push 
+  487  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  488  git status
+  489  git push -m "Updated file structure"
+  490  git commit -m "updated file stucture"
+  491  git rm Ignore. Folder necesary for git function
+  492  git status
+  493  git add loan_qualifier_app
+  494  git status
+  495  git push -m "Added loan qualifier app"
+  496  git push
+  497  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  498  git status
+  499  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  500  git config --list | grep credential\n
+  501  git config --list | grep credential\n
+  502  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  503  git config --remove-section credential
+  504  git push
+  505  git push git commit "Test"
+  506  git commit -m "Test"
+  507  git commit -m "Added save qualifying loans function"
+  508  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  509  git commit -m "added save qualifying loans function"
+  510  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  511  git status
+  512  git commit -m "Added save loan qualifying function"
+  513  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  514  git status
+  515  git add loan_qualifer_app
+  516  git add loan_qualifier_app
+  517  git status
+  518  git commit -m "Added save qualifying loans function"
+  519  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  520  git add loan_qualifier_app
+  521  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  522  git push main
+  523  git status
+  524  git status main
+  525  git checkout main
+  526  git checkout Main
+  527  git init git@github.com:JakeWheelerGitHub/Week-2-Challenge.git
+  528  git status
+  529  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge'
+  530  git add loan_qualifer_app
+  531  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app/app.py"
+  532  clear
+  533  git push -u origin main
+  534  git push -u main
+  535  git checkout -b main
+  536  git status
+  537  git add loan_qualifer_app
+  538  git add loan_qualifer_app/app.py
+  539  git add '/Users/jakewheeler/Fintech/Challenges/Week 2 Challenge/loan_qualifier_app'
+  540  git status
+  541  git commit -m "Added writing qualifying loans to csv file"
+  542  git push
+  543  git push main
+  544  git push https://github.com/JakeWheelerGitHub/Week-2-Challenge.git
+  545  git push git@github.com:JakeWheelerGitHub/Week-2-Challenge.git
+  546  clear
+  547  pwd
+  548  cd ..
+  549  ls
+  550  cd week 2 updated
+  551  cd Week\ 2\ UPDATED
+  552  cd ..
+  553  cd..
+  554  cd..
+  555  cd ..
+  556  cd ..
+  557  cd ..
+  558  cd ..
+  559  cd ..
+  560  pwd
+  561  ls 
+  562  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  563  cd users
+  564  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  565  cd jakewheeler
+  566  git clone git@github.com:JakeWheelerGitHub/Week-2-Challenge-.git
+  567  cd Week 2 Challenge
+  568  clear
+  569  ls 
+  570  cd fintech
+  571  cd Challenges
+  572  cd GIT_Week-2-Challenge-
+  573  ls
+  574  cd Starter_Code
+  575  ls
+  576  clear
+  577  pwd
+  578  ls
+  579  ls
+  580  cd ..
+  581  cd Starter_Code
+  582  ls
+  583  clear
+  584  git init 
+  585  git config --global init.defaultBranch main
+  586  git add . 
+  587  pwd
+  588  ccd ..
+  589  cd ..
+  590  cd '/Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-'
+  591  pwd
+  592  git init
+  593  git add .
+  594  git commit -m "Reorganized file structure" 
+  595  git push 
+  596  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  597  /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/data/daily_rate_sheet.
+  598  clear
+  599  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  600  git init
+  601  git add .
+  602  git commit -m "Added function that saves qualifying loans to csv file"
+  603  git push
+  604  clear
+  605  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  606  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  607  clear
+  608  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Challenges/Week 2 UPDATED/loan_qualifier_app/app.py"
+  609  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  610  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  611  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  612  git init
+  613  git add .
+  614  git commit -m "Added function that saves qualifying loans to csv file"
+  615  git push
+  616  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  617  clear
+  618  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  619  clear
+  620  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  621  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  622  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  623  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  624  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  625  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  626  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  627  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  628  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  629  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  630  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  631  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  632  clear
+  633  git init
+  634  git add .
+  635  git commit -m "Added CLI to ask if user would like to save loans to CSV file"
+  636  git push
+  637  clear
+  638  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  639  clear
+  640  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  641  clear
+  642  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  643  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  644  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  645  clear
+  646  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  647  clear
+  648  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  649  git init
+  650  git add .
+  651  git commit -m "Added CLI to ask user where to save loans CSV file"
+  652  git push
+  653  clear
+  654  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  655  clear
+  656  git init
+  657  git add .
+  658  git commit -m "Testing image in ReadMe"
+  659  git push
+  660  clear
+  661  git init
+  662  git add .
+  663  git commit -m "Updated ReadMe"
+  664  git push
+  665  git init
+  666  git add .
+  667  git commit -m "Updated readme formatting"
+  668  git push
+  669  git commit -m "Updated readme formattting"
+  670  git init
+  671  git add .
+  672  git commit -m " updated readme formatting"
+  673  git push
+  674  git init
+  675  git add .
+  676  git commit -m "Spelling and final readme updates"
+  677  git push
+  678  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python /Users/jakewheeler/Fintech/Challenges/GIT_Week-2-Challenge-/loan_qualifier_app/app.py
+  679  clear
+  680  git init
+  681  git add . 
+  682  git commit -m "Added more comments to the application" 
+  683  git push
+  684  history 50 > terminal_history.txt\n
+  685  clear
+  686  git init
+  687  git add .
+  688  git commit -m "added terminal_history.txt"
+  689  git push
+  690  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  691  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  692  cd
+  693  pwed
+  694  pwd
+  695  cd 
+  696  ls
+  697  cd fintech
+  698  ls
+  699  cd challenges
+  700  psd
+  701  pwd
+  702  ls
+  703  cd Week\ 2\ Challenge
+  704  git clone https://github.com/JakeWheelerGitHub/Challenge-2.git
+  705  clear
+  706  conda activate dev
+  707  jupyterlab
+  708  jupyter lab
+  709  clear
+  710  conda activate dev
+  711  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  712  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  713  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  714  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  715  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  716  /Users/jakewheeler/opt/anaconda3/envs/dev/bin/python "/Users/jakewheeler/Fintech/Week 3/W3 Modules/04_Banking_Bonanza/Unsolved/import pandas as pd"
+  717  conda activate dev
+  718  conda activate dev
+  719  conda activate dev
+  720  pwd
+  721  cd ..
+  722  pwd
+  723  git clone git@github.com:JakeWheelerGitHub/week_3_challenge.git
+  724  gconda activate dev
+  725  git init
+  726  git add . 
+  727  git commit -m "Analyze data pt 1-3 complete"
+  728  git commit -m "Analyze data pt 1-6 complete"
+  729  git push
+  730  git status
+  731  git init
+  732  git add .
+  733  git commit -m "Analyze data pt 1-6 complete"
+  734  git push
+  735  pwd
+  736  history 50 > terminal_history.txt
+  737  conda activate dev
+  738  git init
+  739  git add .
+  740  git commit -m "Analysis report complete"
+  741  git push
+  742  history 50 > terminal_history1.txt
+  743  conda activate dev
+  744  conda activate dev
+  745  history 50 > terminal_history.txt
+  746  history 50 > terminal_history2.txt
+  747  pwd
+  748  conda activate dev
+  749  git init
+  750  git add .
+  751  git status
+  752  git commit -m "Data Collection Complete"
+  753  git push
+  754  history 50 > terminal_history2.txt
+  755  gconda activate dev
+  756  git init
+  757  git add .
+  758  git commit -m "Prepare the Data Complete"
+  759  git push
+  760  history 50 > terminal_history3.txt
+  761  conda activate dev
+  762  git init
+  763  git add .
+  764  git commit -m "Analyze data pt 1-3 complete" 
+  765  git push
+  766  history 50 > terminal_history4.txt\n
+  767  conda activate dev
+  768  git init
+  769  git add .
+  770  git commit -m "Added comments, coding complete"
+  771  git push
+  772  history 50 > terminal_history5.txt\n
+  773  conda activate dev
+  774  history 50 > terminal_history6.txt\n
+  775  conda activate dev
+  776  history 50 > terminal_history7.txt
+  777  pwd
+  778  conda activate dev
+  779  git init
+  780  git add .
+  781  git commit -m "Updated readme"
+  782  git push
+  783  git init
+  784  git add .
+  785  git commit -m "Finalized ReadMe spelling"
+  786  git push
+  787  pwd
+  788  history 50 > terminal_history.txt
+  789  cd ..
+  790  pwd
+  791  history 50 > terminal_history.txt
+  792  cd ..
+  793  conda activate dev
+  794  history 50 > terminal_history.txt
+  795  conda activate dev
+  796  history 50 > terminal_history.pwd
+  797  pwd
+  798  history 50 > terminal_history.txt\n
+  799  git init
+  800  git add
+  801  git add .
+  802  git commit -m "Added terminal history"
+  803  git push
+  804  conda list requests
+  805  conda list json
+  806  pip install python-dotenv
+  807  pip install alpaca-trade-api\n
+  808  pip list | grep -E "python-dotenv|alpaca-trade-api"\n
+  809  conda activate dev
+  810  conda activate dev
+  811  cd ..
+  812  pwd
+  813  cd 
+  814  ls Fintech
+  815  cd Fintech
+  816  cd API\ Keys
+  817  python -m pip install python-dotenv\n\n
+  818  conda activate dev
+  819  pip3 uninstall python-dotenv
+  820  pip3 install -U python-dotenv\n
+  821  conda activate dev
+  822  cd ..
+  823  pip install alpaca_trade_api\n\n
+  824  conda activate dev
+  825  conda activate dev
+  826  conda activate dev
+  827  conda activate dev
+  828  git clone git@github.com:JakeWheelerGitHub/Week_4_Challenge.git
+  829  conda activate dev
+  830  git init
+  831  git add .
+  832  cd
+  833  pwd
+  834  cd Fintech
+  835  cd Challenges
+  836  cd Week_4_Challenge
+  837  pwd
+  838  git init
+  839  git add .
+  840  git commit -m "Import the Data complete"
+  841  git status
+  842  git push
+  843  pwd
+  844  git init
+  845  git add
+  846  git add .
+  847  git commit -m "Analyze the Volatility complete"
+  848  git push
+  849  pwd
+  850  git init
+  851  git add .
+  852  git status
+  853  git commit -m "Analyze the Risk complete"
+  854  git push
+  855  pwd
+  856  git init
+  857  git add .
+  858  git commit -m " Analyze the Risk-Return Profile complete"\n
+  859  git push
+  860  git init
+  861  git add .
+  862  git commit -m "Coding complete"
+  863  git push
+  864  git init
+  865  git add .
+  866  git commit -m "Final formatting and commenting"
+  867  git push
+  868  20 terminal history
+  869  history 20 > terminal_history.txt\n
+  870  git init
+  871  git add .
+  872  git status
+  873  git commit -m "Terminal history"
+  874  git push
+  875  git init
+  876  git add .
+  877  git status
+  878  history 50 > terminal_history.txt\n
+  879  git status
+  880  git push
+  881  git commit -m "Added ReadMe"
+  882  git push
+  883  history 50 > terminal_history.txt\n
+  884  git init
+  885  git add .
+  886  git status
+  887  git commit "Added terminal history"
+  888  git commit -m "added terminal history"
+  889  git push
+  890  open code
+  891  code .
+  892  code.
+  893  shell command
+  894  printenv > /var/folders/53/clylk17j4tv8jcsq7r8_z4b00000gn/T/tmp-78602MBbV0MA2IZHutxt
+  895  conda activate dev
+  896  conda install -c pyviz hvplot geoviews\n
+  897   conda list hvplot\n
+  898   conda list geoviews\n
+  899  conda activate dev
+  900  pwd
+  901  cd .
+  902  cd ..
+  903  pwd
+  904  git clone git@github.com:JakeWheelerGitHub/Week_5_Challenge.git
+  905  pwd
+  906  cd Week_5_Challenge
+  907  git add .
+  908  git status
+  909  git init
+  910  git add .
+  911  git status
+  912  git commit -m "Part 1 complete"
+  913  git push
+  914  git init
+  915  git add .
+  916  git commit -m "Evaluate stock/bonds complete"
+  917  git push
+  918  git status
+  919  pwd
+  920  git status
+  921  git init
+  922  git add .
+  923  git commit -m "Evaluate stocks/bonds complete"
+  924  git push
+  925  git init
+  926  git add .
+  927  git status
+  928  git status
+  929  git commit -m "Part 1 Complete+\ngit commit -m "Part 1 Complete"\nconda activate dev\n"
+  930  git commit -m "Part 1 Complete"
+  931  git init
+  932  git add .
+  933  git status
+  934  git commit -m "Part 1 Complete"
+  935  git push
+  936  git inint
+  937  git init
+  938  git add .
+  939  git status
+  940  git commit -m "Coding complete"
+  941  git push
+  942  history 50 > terminal_history.txt\n
+  943  git init
+  944  git add .
+  945  git status
+  946  git commit "added readme"
+  947  git push
+  948  history 50 > terminal_history.txt\n
+  949  git init
+  950  git add .
+  951  git status
+  952  git commit -m "Added terminal history"
+  953  git push
+  954  conda deactivate
+  955  conda update conda\n
+  956  conda activate dev
+  957  conda deactivate
+  958  conda create -n dev python=3.7 anaconda\n
+  959  conda activate dev
+  960  clear
+  961  conda info -e
+  962  conda env export > environment.yml
+  963  conda env export
+  964  conda env export --from-history
+  965  pip install -U hvplot
+  966  conda deactivate
+  967  conda create -n hvplot python=3.10 hvplot=0.8 ipykernel=6.15 jupyterlab=3.4 matplotlib=3.5 numpy=1.22 pandas=1.4 -c conda-forge --strict-channel-priority
+  968  conda activate hvplot
+  969  python -m ipykernel install --user --name=hvplot
+  970  conda info-e
+  971  conda info -e
+  972  jupyter kernelspec list
+  973  jupyter lab
+  974  conda activate dev
+  975  conda activate dev
+  976  clear
+  977  clear
+  978  conda activate dev
+  979  pwd
+  980  cd ..
+  981  cd ..
+  982  cd Challenges
+  983  pwd
+  984  git clone git@github.com:JakeWheelerGitHub/Week_6_Challenge.git
+  985  clear
+  986  pwd
+  987  cd Week_6_Challenge
+  988  git init
+  989  git add .
+  990  git status
+  991  git commit -m "Calculate and Plot the Average Sale Prices per Square Foot" complete
+  992  git commit -m "Calculate and Plot the Average Sale Prices per Square Foot complete"
+  993  git push
+  994  conda activate dev
+  995  conda activate dev
+  996  conda list sqlalchemy
+  997  conda install -c conda-forge voila\n
+  998  conda list viola
+  999  conda install -c conda-forge voila\n
+ 1000  conda list voila
+ 1001  conda activate dev
+ 1002  git init
+ 1003  git add .
+ 1004  pwd
+ 1005  cd Challenges
+ 1006  cd Week_6_Challenge
+ 1007  git add .
+ 1008  git status
+ 1009  git commit -m "Compare the Average Sale Prices by Neighborhood complete"
+ 1010  git push
+ 1011   pwd
+ 1012  git init
+ 1013  git add .
+ 1014  git status
+ 1015  git commit -m "Coding complete"
+ 1016  git push
+ 1017  git add .
+ 1018  git status
+ 1019  git commit -m "Readme added"
